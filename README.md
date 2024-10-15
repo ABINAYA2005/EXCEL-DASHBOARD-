@@ -29,11 +29,6 @@ To get started with the Retailer Dashboard, follow the instructions below to set
 
 📥 Installation
 Download Excel: Ensure you have Microsoft Excel installed on your computer. 💻
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/yourusername/retailer-dashboard.git
-Open the Excel File: Navigate to the cloned directory and open RetailerDashboard.xlsx. 📂
 
 🔧 Usage
 Load Your Data: Import your retailer sales data into the designated sheet. 📊
